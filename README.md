@@ -1,5 +1,5 @@
 <h1 align="center">Proffy</h1>
-<img alt="Proffy" src="https://github.com/ThiagoOliveiraCordeiro/Plataforma-Proffy/blob/master/images/readme/Home.svg">
+<img alt="Proffy" src="https://github.com/ThiagoOliveiraCordeiro/nodehtml-proffy/blob/main/public/images/readme/Home.svg">
 <p align="center">
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/ThiagoOliveiraCordeiro/nodehtml-proffy?style=for-the-badge">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ThiagoOliveiraCordeiro/nodehtml-proffy?style=for-the-badge">
