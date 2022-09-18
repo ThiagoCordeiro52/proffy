@@ -1,8 +1,8 @@
 <h1 align="center">Proffy</h1>
-<img alt="Proffy" src="https://github.com/ThiagoCordeiro52/nodehtml-proffy/blob/main/public/images/readme/Home.svg">
+<img alt="Proffy" src="https://github.com/ThiagoCordeiro52/proffy/blob/main/public/images/readme/Home.svg">
 <p align="center">
-  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/ThiagoCordeiro52/nodehtml-proffy?style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ThiagoCordeiro52/nodehtml-proffy?style=for-the-badge">
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/ThiagoCordeiro52/proffy?style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ThiagoCordeiro52/proffy?style=for-the-badge">
   <a href="https://github.com/ThiagoCordeiro52">
     <img alt="Feito pelo Thiago Oliveira" src="https://img.shields.io/badge/feito%20por-Thiago Oliveira-%237519C1?style=for-the-badge">
   </a>
